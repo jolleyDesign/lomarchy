@@ -1,6 +1,6 @@
 # lomarchy
 
-A (less) opiniated version of DHH's Omarchy (Read more at [omarchy.org](https://omarchy.org).
+A (less) opinionated version of DHH's Omarchy (Read more at [omarchy.org](https://omarchy.org).
 
 # Changes
 
