@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/.local/share/omarchy
+cd ~/.local/share/lomarchy
 
 if [[ $1 == "all" ]]; then
   # Run all migrations
