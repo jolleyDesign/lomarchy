@@ -1,5 +1,5 @@
 # Install everything
-for f in ~/.local/share/omarchy/install/*.sh; do source "$f"; done
+for f in ~/.local/share/lomarchy/install/*.sh; do source "$f"; done
 
 # Ensure locate is up to date now that everything has been installed
 sudo updatedb
