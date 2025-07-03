@@ -5,3 +5,6 @@ yay -S --noconfirm --needed \
   wl-clipboard btop \
   man tldr less whois plocate \
   ghostty fastfetch fd-find zsh
+
+git clone https://github.com/jolleyDesign/ghostty ~/.config/
+rm ~/.config/ghostty/README.md
