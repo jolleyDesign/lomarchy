@@ -3,7 +3,6 @@
 A (less) opinionated (and more FOSS centric) fork of DHH's Omarchy (Read more about Omarchy at [omarchy.org](https://omarchy.org))
 
 ## Changes
-- [ ] TODO: swap Wofi launcher for Walker launcher
 
 I took DHH's Omarchy and made it more of a clean-slate starting point for Arch & Hyprland. 
 
@@ -13,6 +12,7 @@ Here's a list of the specific changes I made:
 | Omarchy (original) | lomarchy (updated) |
 | ------------------ | ------------------ |
 | Chromium as default browser | Firefox as default browser |
+| Wofi launcher | Walker launcher (faster, more customizable) |
 | BASH as default shell | ZSH as default shell |
 | Pretty, but unreadable, shell prompt | More user-friendly prompt |
 | Alacritty as default terminal | Ghostty as default terminal (including a starter config) |
