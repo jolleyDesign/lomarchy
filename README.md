@@ -3,6 +3,18 @@
 A (less) opinionated (and more FOSS centric) fork of DHH's Omarchy (Read more about Omarchy at [omarchy.org](https://omarchy.org))
 
 ## Installation
+#### Step one:
+Download the Arch Linux ISO (https://archlinux.org/download/#http-downloads)
+#### Step two:
+If you're using WiFi (and not ethernet), start by running the following:
+```
+iwctl
+station wlan0 scan
+station wlan0 connect <tab>
+```
+Then pick your network, and enter its password.
+#### Step three:
+Run the `archinstall` command, and pick the following options:
 
 
 ## Changes
