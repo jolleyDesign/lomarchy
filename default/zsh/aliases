@@ -6,10 +6,6 @@ alias ff="fzf --preview 'bat --style=numbers --color=always {}'"
 alias cd="zd"
 
 
-open() {
-  xdg-open "$@" >/dev/null 2>&1
-}
-
 # Directories
 alias ..='cd ..'
 alias ...='cd ../..'

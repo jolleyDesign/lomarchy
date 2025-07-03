@@ -123,3 +123,12 @@ hotkeys() {
   echo "Shift + Print Screen: screenshot a window"
   echo "Ctrl + Print Screen: screenshot an entire monitor"
 }
+
+open() {
+  xdg-open "$@" >/dev/null 2>&1
+}
+
+update() {
+  sudo pacman -Syu
+  yay -Syu
+}
