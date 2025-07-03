@@ -23,6 +23,7 @@ Here's a list of the specific changes I made:
 | tokyo-nights default theme | catppuccin default theme |
 | No hotkeys reference | hotkeys function added for the terminal |
 | Keybindings for opinionated websites (HEY, Basecamp, Xitter, etc) | No website keybindings by default | 
+| | update() function for quick system updates |
 
 ## Installation
 #### Step one:
@@ -51,7 +52,6 @@ Run the `archinstall` command, and pick the following options (note: disc encryp
 | Network configuration | Copy ISO network config |
 | Additional packages | Add wget (type "/wget" to filter list) |
 | Timezone | Set yours |
-| | update() function for quick system updates |
 
 #### Step four:
 Run the following command:
