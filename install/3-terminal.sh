@@ -3,4 +3,4 @@ yay -S --noconfirm --needed \
   fzf ripgrep zoxide bat \
   wl-clipboard btop \
   man tldr less whois plocate \
-  ghostty fastfetch
+  ghostty fastfetch fd-find
