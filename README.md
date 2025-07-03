@@ -51,6 +51,7 @@ Run the `archinstall` command, and pick the following options (note: disc encryp
 | Network configuration | Copy ISO network config |
 | Additional packages | Add wget (type "/wget" to filter list) |
 | Timezone | Set yours |
+| | update() function for quick system updates |
 
 #### Step four:
 Run the following command:
