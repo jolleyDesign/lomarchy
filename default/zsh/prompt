@@ -1,0 +1,2 @@
+# custom zsh prompt
+PROMPT="%F{7}[%f%F{14}%n%f@%F{208}%~%f%F{7}]%f "

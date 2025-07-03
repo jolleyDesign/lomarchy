@@ -1,0 +1,26 @@
+# File system
+alias ll'ls -lah'
+alias lsa='ls -a'
+
+alias ff="fzf --preview 'bat --style=numbers --color=always {}'"
+alias cd="zd"
+
+
+open() {
+  xdg-open "$@" >/dev/null 2>&1
+}
+
+# Directories
+alias ..='cd ..'
+alias ...='cd ../..'
+alias .3='cd ../../..'
+alias .4='cd ../../../..'
+
+# Tools
+alias n='nvim'
+alias g='git'
+
+# Git
+alias gcm='git commit -m'
+alias gcam='git commit -a -m'
+alias gcad='git commit -a --amend'
