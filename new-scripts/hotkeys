@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# a script for displaying lomarchy hotkeys within the terminal
+# a script for displaying omarchy hotkeys within the terminal
 echo "---Navigation hotkeys---"
 echo "Super + Space: app launcher"
 echo "Super + W: close focused window"

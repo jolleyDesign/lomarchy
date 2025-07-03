@@ -1,6 +1,6 @@
 # lomarchy
 
-A (less) opinionated (and more FOSS centric) fork of DHH's Omarchy (Read more at [omarchy.org](https://omarchy.org).
+A (less) opinionated (and more FOSS centric) fork of DHH's Omarchy (Read more at [omarchy.org](https://omarchy.org))
 
 # Changes
 
