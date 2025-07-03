@@ -1,8 +1,12 @@
 # Copy over Omarchy configs
 cp -R ~/.local/share/omarchy/config/* ~/.config/
 
-# Use default bashrc from Omarchy
-echo "source ~/.local/share/omarchy/default/bash/rc" >~/.bashrc
+
+# Change default shell to ZSH
+chsh -s /bin/zsh
+
+# Use default zshrc from Omarchy
+echo "source ~/.local/share/omarchy/default/zsh/rc" >~/.zshrc
 
 # Login directly as user, rely on disk encryption + hyprlock for security
 sudo mkdir -p /etc/systemd/system/getty@tty1.service.d
