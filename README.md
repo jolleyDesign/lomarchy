@@ -2,6 +2,10 @@
 
 A (less) opinionated (and more FOSS centric) fork of DHH's Omarchy (Read more about Omarchy at [omarchy.org](https://omarchy.org))
 
+## Quick note
+At this point, I have tweaked the original Omarchy config so much that I don't think I can call it an Omarchy offspring.
+At some point in the future, I will be creating a new repo for this new setup, so as to keep the original idea of this "less opinionated" Omarchy.
+
 ## Changes
 
 I took DHH's Omarchy and made it more of a clean-slate starting point for Arch & Hyprland. 
